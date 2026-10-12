@@ -1,4 +1,6 @@
 Apollo - This is line 001 (Changed).
 Apollo - This is line 002 (Changed).
 Apollo - This is line 003.
-Apollo - This is line 004.
+Apollo - This is line 004. The Dog is here.
+Apollo - This is line 005.
+Apollo - This is line 006 (Edited from "feature/dog" branch).
