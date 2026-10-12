@@ -2,3 +2,6 @@ The Dog is happy now!
 Happy - Line 002.
 Happy - Line 003.
 Happy - Line 004.
+Happy - Line 005.
+Happy - Line 006.
+Happy - Line 007.
